@@ -1,2 +1,2 @@
 # belajar_qa
-Testing web OrangeHRM
+Testing web OrangeHRM menggunakan cypress
