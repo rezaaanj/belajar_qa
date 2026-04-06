@@ -1,0 +1,23 @@
+{
+  "name": "belajar_qa",
+  "version": "1.0.0",
+  "description": "Testing web OrangeHRM menggunakan cypress",
+  "homepage": "https://github.com/rezaaanj/belajar_qa#readme",
+  "bugs": {
+    "url": "https://github.com/rezaaanj/belajar_qa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaaanj/belajar_qa.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
+}
